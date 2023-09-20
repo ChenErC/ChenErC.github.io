@@ -34,6 +34,7 @@ Skills
   Understand c++ programming under Linux, object-oriented thinking, and three core features.
 * Skill 9
   Understand android, CCS, Python language, assembly language, STM32, 51 MCU, HTML5, able to build websites in the cloud.
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
